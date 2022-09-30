@@ -1,0 +1,89 @@
+/*
+Gregory Smith
+styles.css
+9/29/2022
+ */
+/* css reset */
+#css1, #css2, #css3 {
+    width: 25%;
+    float: left;
+    padding: 0 1%;
+    text-decoration: none;
+}
+/* footer style rules  */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: #47476b;
+    padding: 1% 0;
+    border-top: 3px solid #47476b;
+    float: left;
+    text-decoration: none;
+}
+/* body style rules  */
+body {
+    padding 2%;
+    background-color: #d1d1e0;
+    text-decoration: none;
+}
+/* main style rules  */
+main {
+    padding: 2%;
+    font-family: Geneva, Arial, sans-serif;
+text-decoration:none;
+color: #47476b;
+font-weight: bold;
+font-style: italic;
+
+}
+/* main style rules  */
+header h1 {
+    font-size: 3em;
+    font-family: Georgia, Times, serif;
+    padding: 3%;
+    color: #47476b;
+    text-align: center;
+    text-decoration: none;
+}
+/* navigation style rules */
+nav {
+    background-color: #47476b;
+    display: inline-block;
+    text-decoration: none;
+}
+/* nav list rules */
+nav ul {
+  margin: 0;
+  text-decoration: none;
+}
+
+nav li {
+    display: block;
+    font-size: 1.5em;
+    font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+/* more nav list rules */
+nav li a {
+   display: block;
+   color: #e3eaf8;
+   padding: 0.5em 2em;
+text-decoration: none;
+ }
+
+
+
+/* main p rules */
+main p {
+    font-size: 1.25em;
+    overflow: auto;
+    text-decoration: none;
+}
+
+/* main h3 rules */
+main h3 {
+    padding-top: 2%;
+    font-size: 2em;
+    text-decoration: none;
+}
